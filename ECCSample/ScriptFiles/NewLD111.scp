@@ -1,0 +1,11 @@
+(*Below isPower (P005) Laddar codes*)
+(*Line codes*)
+LD                           C0021
+AND                          C00118
+AND                          C00119
+LD                           C0040
+OR
+OUT                          C0023
+OUT                          C00123
+OUT                          C00124
+

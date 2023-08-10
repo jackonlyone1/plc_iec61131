@@ -1,0 +1,11 @@
+Please enter your description text here!
+
+ADD(
+	IN1 := (*ANY_NUM*),
+	IN2 := (*ANY_NUM*),
+	OUT => (*ANY_NUM*))
+
+SHR(
+	IN := (*ANY_BIT*),
+	N := (*ANY_INT*),
+	OUT => (*ANY_BIT*))

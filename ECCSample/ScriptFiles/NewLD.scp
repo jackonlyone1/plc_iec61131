@@ -1,0 +1,42 @@
+(*Below isPower (P0043) Laddar codes*)
+(*Line codes*)
+LD                           C00143
+OUT                          C0064
+AND                          C00143
+AND                          C0064
+OR
+LD                           C0040
+LD                           C00143
+OR
+LD                           C0065
+AND                          C0069
+AND                          C00143
+AND                          C0064
+AND                          C0065
+AND                          C0066
+AND                          C0067
+AND                          C0068
+AND                          C00143
+OR
+OR
+OUT                          C0066
+(*Line codes*)
+LD                           C0064
+LD                           C00101
+OR
+LDI                          C0065
+AND                          C0066
+OUT                          C0067
+OUT                          C00100
+(*Below isPower (P0047) Laddar codes*)
+(*Line codes*)
+LD                           C00187
+OUT                          C00189
+AND                          C00102
+TON1
+OUT                          C00103
+(*Line codes*)
+LD                           C00104
+TON1
+OUT                          C00103
+

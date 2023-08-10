@@ -1,0 +1,17 @@
+
+SINT_TO_DWORD(
+	IN := (*SINT	*), 
+	OUT => (*DWORD*))
+
+
+LD 		00000
+AND NOT 	0004
+LD 		00001
+AND 		0005
+OR	 	LD
+OUT 		01000
+END(01)
+
+SINT_TO_LWORD(
+	IN := (*SINT	*), 
+	OUT => (*LWORD*))

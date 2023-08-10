@@ -1,0 +1,29 @@
+Please enter your description text here!
+
+CTUD(
+	CU := (*BOOL*),
+	CD := (*BOOL*),
+	R := (*BOOL*),
+	LD := (*BOOL*),
+	PV := (*INT*),
+	QU => (*BOOL*),
+	QD => (*BOOL*),
+	CV => (*INT*),
+	CD_T => (*R_TRIG*),
+	CU_T => (*R_TRIG*))
+
+TOF(
+	IN := (*BOOL*),
+	PT := (*TIME*),
+	Q => (*BOOL*),
+	ET => (*TIME*))
+
+EQ(
+	IN1 := (*ANY*),
+	IN2 := (*ANY*),
+	OUT => (*ANY*))
+
+LE(
+	IN1 := (*ANY*),
+	IN2 := (*ANY*),
+	OUT => (*ANY*))
