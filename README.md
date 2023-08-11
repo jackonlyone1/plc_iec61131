@@ -1,5 +1,8 @@
 # plc_iec61131
-Open c++ source code for PLC and IEC61131 Software
+Open c++ source code for PLC and IEC61131 Software.
+All complete c++ source codes can be found with:
+http://www.ucancode.net
+
 E-XD++ IEC-61131 Visualization Solution is the complete source code kit for building any professional PLC programming based automation applications, it full supports IEC 61131 programming components, and all the features of this solution are designed from start to make everything can be full customized. The system can convert automatically between IL, LD, SFC, ST and FBD, allowing different developers and service engineers each to use their preferred language on one and the same project. E-XD++ accelerates project handling and creation of the PLC application in all programming languages of the IEC 61131. It is the only and best choice for building a very professional PLC (IEC61131) application. All the complete source codes are shipped without any saving.
 ![PLC-LADDAR-DIAGRAM](https://github.com/jackonlyone1/plc_iec61131/assets/96277629/2640a890-035f-42e6-8a98-4bada71bc7df)
 
